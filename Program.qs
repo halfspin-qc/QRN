@@ -32,8 +32,8 @@
     
     @EntryPoint()
     operation SampleRandomNumber() : Int {
-        let min = 40;
-        let max = 60;
+        let min = 10000;
+        let max = 99999;
         Message($"Sampling a random number between {min} and {max}: ");
         mutable output2 = 0; 
         repeat {
@@ -43,4 +43,5 @@
         return output2 ;
     }
 }
+
 

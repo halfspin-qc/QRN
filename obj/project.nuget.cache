@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8eEt0ZisgRmXGx1cN7BQcyz8F1dY7M7IZeo4N1ETvDNPJoA30u6AT079z8Zy9VtLbWrKrdvFYTlLQYHtTkAczA==",
+  "dgSpecHash": "u7woyJYTEuD0xXSJSjGhhapTZZ4wInd+IKfTpzLKRYCrX52tAaD+4jBD5pqydmtI/nftBt5U2icpd3d+MEx73g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sbrahme\\Documents\\Python\\QDK\\QRN\\QRN.csproj",
+  "projectFilePath": "c:\\Users\\sbrahme\\Documents\\Python\\QDK\\QRN\\QRN.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sbrahme\\.nuget\\packages\\fparsec\\1.0.3\\fparsec.1.0.3.nupkg.sha512",
     "C:\\Users\\sbrahme\\.nuget\\packages\\fsharp.core\\4.7.0\\fsharp.core.4.7.0.nupkg.sha512",

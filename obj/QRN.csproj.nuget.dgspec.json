@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sbrahme\\Documents\\Python\\QDK\\QRN\\QRN.csproj": {}
+    "c:\\Users\\sbrahme\\Documents\\Python\\QDK\\QRN\\QRN.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sbrahme\\Documents\\Python\\QDK\\QRN\\QRN.csproj": {
+    "c:\\Users\\sbrahme\\Documents\\Python\\QDK\\QRN\\QRN.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sbrahme\\Documents\\Python\\QDK\\QRN\\QRN.csproj",
+        "projectUniqueName": "c:\\Users\\sbrahme\\Documents\\Python\\QDK\\QRN\\QRN.csproj",
         "projectName": "QRN",
-        "projectPath": "C:\\Users\\sbrahme\\Documents\\Python\\QDK\\QRN\\QRN.csproj",
+        "projectPath": "c:\\Users\\sbrahme\\Documents\\Python\\QDK\\QRN\\QRN.csproj",
         "packagesPath": "C:\\Users\\sbrahme\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sbrahme\\Documents\\Python\\QDK\\QRN\\obj\\",
+        "outputPath": "c:\\Users\\sbrahme\\Documents\\Python\\QDK\\QRN\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
