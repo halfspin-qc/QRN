@@ -206,9 +206,9 @@ namespace QRN
         public override Func<QVoid, Int64> Body => (__in__) =>
         {
 #line 35 "C:/Users/sbrahme/Documents/Python/QDK/QRN/Program.qs"
-            var min = 40L;
+            var min = 10000L;
 #line 36 "C:/Users/sbrahme/Documents/Python/QDK/QRN/Program.qs"
-            var max = 60L;
+            var max = 99999L;
 #line 37 "C:/Users/sbrahme/Documents/Python/QDK/QRN/Program.qs"
             MicrosoftQuantumIntrinsicMessage.Apply(String.Format("Sampling a random number between {0} and {1}: ", min, max));
 #line 38 "C:/Users/sbrahme/Documents/Python/QDK/QRN/Program.qs"
